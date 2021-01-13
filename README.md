@@ -6,6 +6,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
 # FLUTTER
   * ##
     * Sitio web oficial de Flutter - Documentación
+    * [Documentacion español](https://esflutter.dev/docs)
   * ## Widgets
   
   * ## Diseños
@@ -42,6 +43,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   
   * ## Sitios de referencias:
      * https://www.diegoveloper.com/
+     * https://esflutter.dev/
   
   * ## Curso recomendado
      * Gratis
