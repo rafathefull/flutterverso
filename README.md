@@ -18,16 +18,16 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   
   * ## Sqlite3
      
-  * ## Apirest
-     * Creando sincronización API REST con SQLite en Flutter ( Juan Diego Castro https://j-diego010297.medium.com/ )
+  * ## Apirest 
+     * Creando sincronización API REST con SQLite en Flutter [Juan Diego Castro ](https://j-diego010297.medium.com/)
         * https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db
      
   * ## Clean code & Clean Architecture
-      * Un Flutter Más Limpio V ( Marcos Sevilla https://marcossevilla.medium.com/ )     
+      * Un Flutter Más Limpio V  [Marcos Sevilla](https://marcossevilla.medium.com/)    
          * Vol.1: https://link.medium.com/ApcCRDCaOcb
          * Vol.2: https://link.medium.com/eNvVP2cGZcb
          * Vol.3: https://link.medium.com/YYOWDzeGZcb
-      * Flutter + Firestore + Clean Architecture + DI ( Ana Polo https://medium.com/@ana.polo.sanchez1991 )
+      * Flutter + Firestore + Clean Architecture + DI [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
      
      
