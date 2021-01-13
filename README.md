@@ -1,4 +1,4 @@
-# Flutterverso
+# Bienvenidos al Flutterverso
 La lista definitiva de recursos de aprendizaje de Flutter
 
 Este espacio es un sitio donde poder encontrar recursos de Fluter en español, que sirva de encuentro de esta maravillosa comunidad.
@@ -12,6 +12,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## JSON y serializacion
   * ## Redes
   * ## Canales
+     * https://t.me/flutter_dart_spanish
      * https://www.twitch.tv/flutter_es
   
 
