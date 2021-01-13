@@ -24,12 +24,15 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
-         * Intro a CLEAN           Vol.1: https://link.medium.com/ApcCRDCaOcb
-         * SOLID Rules en Dart     Vol.2: https://link.medium.com/eNvVP2cGZcb
-         * Dominando las Entidades Vol.3: https://link.medium.com/YYOWDzeGZcb
+         * [Intro a CLEAN Vol.1](https://link.medium.com/ApcCRDCaOcb)
+         * [SOLID Rules en Dart Vol.2](https://link.medium.com/eNvVP2cGZcb)
+         * [Dominando las Entidades Vol.3]( https://link.medium.com/YYOWDzeGZcb)
       * Flutter + Firestore + Clean Architecture + DI [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
      
+  * ## Mutiplataforma 
+       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay  [Liber Da Silva](https://medium.com/@ldasilva-net)
+          * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1
      
   * ## Canales
      * https://t.me/flutter_dart_spanish
