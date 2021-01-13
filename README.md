@@ -56,6 +56,8 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Programación eficaz
   * ## Programación asincrónica
   * ## Conceptos avanzados
+    * [Trabajando con bytes en Dart](https://dev.to/maginkgo/trabajando-con-bytes-en-dart-153m) [Marcos Alejandro](https://dev.to/maginkgo)
+    
   * ## Curso recomendado
      * Gratis
      * Plataformas de Pagos
