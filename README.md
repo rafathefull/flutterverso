@@ -23,10 +23,10 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
         * https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db
      
   * ## Clean code & Clean Architecture
-      * Un Flutter Más Limpio V  [Marcos Sevilla](https://marcossevilla.medium.com/)    
-         * Vol.1: https://link.medium.com/ApcCRDCaOcb
-         * Vol.2: https://link.medium.com/eNvVP2cGZcb
-         * Vol.3: https://link.medium.com/YYOWDzeGZcb
+      * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
+         * Intro a CLEAN           Vol.1: https://link.medium.com/ApcCRDCaOcb
+         * SOLID Rules en Dart     Vol.2: https://link.medium.com/eNvVP2cGZcb
+         * Dominando las Entidades Vol.3: https://link.medium.com/YYOWDzeGZcb
       * Flutter + Firestore + Clean Architecture + DI [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
      
