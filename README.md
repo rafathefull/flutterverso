@@ -31,8 +31,10 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
      
   * ## Mutiplataforma 
-       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay  [Liber Da Silva](https://medium.com/@ldasilva-net)
+       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción [Liber Da Silva](https://medium.com/@ldasilva-net)
           * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1
+       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay —Integración   
+          * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-integraci%C3%B3n-dd38fbe18389
      
   * ## Canales
      * https://t.me/flutter_dart_spanish
@@ -41,7 +43,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Sitios de referencias:
      * https://www.diegoveloper.com/
   
-
+  * ## Curso recomendado
+     * Gratis
+     * Plataformas de Pagos
 
 # DART
   * ## Introducción
