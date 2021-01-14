@@ -55,6 +55,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Curso recomendado
      * Gratis
      * Plataformas de Pagos
+       * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
 
 # DART
   * ## Introducción
