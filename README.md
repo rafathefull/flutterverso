@@ -50,6 +50,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Sitios de referencias:
      * https://www.diegoveloper.com/
      * https://esflutter.dev/
+     * [ {prebeta } Youtube Sergio casero](https://www.youtube.com/channel/UCqKJEQ9i03hODiJzZUjT4Dg)
   
   * ## Curso recomendado
      * Gratis
