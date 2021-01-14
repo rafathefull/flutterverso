@@ -30,6 +30,12 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [Dominando las Entidades Vol.3]( https://link.medium.com/YYOWDzeGZcb)
       * Flutter + Firestore + Clean Architecture + DI [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
+      * Arquitecturas en @Flutter {prebeta} Sergio Casero   
+         * [Introducción Vol.1](https://www.youtube.com/watch?v=sX5nlKE8u88&t)
+         * [Componentes y estructura Vol.2](https://www.youtube.com/watch?v=IVBY3h5btCs&t)
+         * [Ejemplo práctico con template en github!!. Vol 3](https://www.youtube.com/watch?v=0ixbxFTZLxc)
+            * https://github.com/sergiocasero/flutter_architecture_template
+         
      
   * ## Mutiplataforma 
        * Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción [Liber Da Silva](https://medium.com/@ldasilva-net)
