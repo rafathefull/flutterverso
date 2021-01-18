@@ -8,6 +8,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
     * Sitio web oficial de Flutter - Documentación
     * [Documentacion español](https://esflutter.dev/docs)
   * ## Widgets
+    * [CustomPainter. Como pintar en Flutter ](https://medium.com/@Thebro_11/como-pintar-en-flutter-48e4b6e4cfc0)  [Eduardo](https://medium.com/@Thebro_11)
   
   * ## Diseños
   
@@ -63,9 +64,13 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * TODO
 
   * ## Programación eficaz
+    * [Que son los mixins](https://medium.com/comunidad-flutter/dart-qu%C3%A9-son-los-mixins-5f2ab880a4ce) [Eduardo](https://medium.com/@Thebro_11)
+    
   * ## Programación asincrónica
+  
   * ## Conceptos avanzados
     * [Trabajando con bytes en Dart](https://dev.to/maginkgo/trabajando-con-bytes-en-dart-153m) [Marcos Alejandro](https://dev.to/maginkgo)
+    
     
   * ## Curso recomendado
      * Gratis
