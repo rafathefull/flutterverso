@@ -23,6 +23,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Diseños
   
   * ## Animaciones
+       * [Curvas](https://easings.net/es-mx)
   
   * ## JSON y serializacion
 
