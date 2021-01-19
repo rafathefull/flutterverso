@@ -51,6 +51,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [Componentes y estructura Vol.2](https://www.youtube.com/watch?v=IVBY3h5btCs&t)
          * [Ejemplo práctico con template en github!!. Vol 3](https://www.youtube.com/watch?v=0ixbxFTZLxc)
             * https://github.com/sergiocasero/flutter_architecture_template
+      * [Cómo estructuro mis proyectos en Flutter?](https://www.youtube.com/watch?v=iiXAoP9ZRUs)
          
      
   * ## Mutiplataforma 
