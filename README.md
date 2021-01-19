@@ -7,15 +7,28 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ##
     * Sitio web oficial de Flutter - Documentación
     * [Documentacion español](https://esflutter.dev/docs)
+    
   * ## Widgets
     * [CustomPainter. Como pintar en Flutter ](https://medium.com/@Thebro_11/como-pintar-en-flutter-48e4b6e4cfc0)  [Eduardo](https://medium.com/@Thebro_11)
-  
+    * [Widgets de la semana](https://www.youtube.com/playlist?list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz) Fernando Herrera Youtube
+       * [#1 Safe Area](https://www.youtube.com/watch?v=1OPDUhgrI24&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz)
+       * [#2 Expanded](https://www.youtube.com/watch?v=-CBKW-90VxQ&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=2)
+       * [#3 Wrap](https://www.youtube.com/watch?v=p9dhf2Xnc68&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=3)
+       * [#4 Animated Container](https://www.youtube.com/watch?v=tF36qXam8Ok&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=4)
+       * [#5 Opacity y AnimatedOpacity](https://www.youtube.com/watch?v=GDEM0Wys3lk&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=5)
+       * [#6FutureBuilder](https://www.youtube.com/watch?v=VRt66cN6PLw&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=6)
+
+       * [StreamBuilder](https://www.youtube.com/watch?v=4boP8MdHpvE)
+    
   * ## Diseños
   
   * ## Animaciones
   
   * ## JSON y serializacion
-  
+
+  * ## Patrones
+    * [Flutter: Bloc, yield, async* y streams](https://www.youtube.com/watch?v=vIwYSFnT2D0&feature=youtu.be) Youtube
+
   * ## Redes
   
   * ## Sqlite3
