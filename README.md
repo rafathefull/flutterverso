@@ -57,7 +57,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
           * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1
        * Incorporando tecnología multiplataforma en el desarrollo de RappiPay —Integración   
           * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-integraci%C3%B3n-dd38fbe18389
-     
+       * Web
+          * [Flutter para la Web](https://medium.com/comunidad-flutter/flutter-para-la-web-91d8b217ad35)
+       
   * ## Canales
      * https://t.me/flutter_dart_spanish
      * https://www.twitch.tv/flutter_es
