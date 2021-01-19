@@ -63,6 +63,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Canales
      * https://t.me/flutter_dart_spanish
      * https://www.twitch.tv/flutter_es
+     * https://medium.com/comunidad-flutter
   
   * ## Sitios de referencias:
      * https://www.diegoveloper.com/
