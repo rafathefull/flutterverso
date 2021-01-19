@@ -53,7 +53,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [Ejemplo práctico con template en github!!. Vol 3](https://www.youtube.com/watch?v=0ixbxFTZLxc)
             * https://github.com/sergiocasero/flutter_architecture_template
       * [Cómo estructuro mis proyectos en Flutter?](https://www.youtube.com/watch?v=iiXAoP9ZRUs) Alfredo Bautista Santos
-         
+      * [GetX - DeliveryApp | Flutter Learning   ](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
      
   * ## Mutiplataforma 
        * Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción [Liber Da Silva](https://medium.com/@ldasilva-net)
