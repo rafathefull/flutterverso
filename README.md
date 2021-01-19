@@ -78,7 +78,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Curso recomendado
      * Gratis
        * [Curso Introducción a Flutter en Español]( https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) Youtube
-       * [Curso, creando una app] (https://www.youtube.com/watch?v=gBfXjjhsl-o) Youtube
+       * [Curso, creando una app](https://www.youtube.com/watch?v=gBfXjjhsl-o) Youtube
        
      * Plataformas de Pagos
        * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
