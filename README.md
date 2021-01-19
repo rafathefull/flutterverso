@@ -73,6 +73,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * https://esflutter.dev/
      * [ {prebeta } Youtube Sergio casero](https://www.youtube.com/channel/UCqKJEQ9i03hODiJzZUjT4Dg)
      * [Alfredo Bautista](https://www.youtube.com/channel/UCoGLWcqby-Scy1oFbxnWFsQ)
+     * [Ricardo Markiewicz](https://www.youtube.com/channel/UCqMwm3oGe6BhJUOrBdfnAEA)
   
   * ## Curso recomendado
      * Gratis
