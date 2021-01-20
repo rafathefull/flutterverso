@@ -16,7 +16,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#3 Wrap](https://www.youtube.com/watch?v=p9dhf2Xnc68&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=3)
        * [#4 Animated Container](https://www.youtube.com/watch?v=tF36qXam8Ok&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=4)
        * [#5 Opacity y AnimatedOpacity](https://www.youtube.com/watch?v=GDEM0Wys3lk&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=5)
-       * [#6FutureBuilder](https://www.youtube.com/watch?v=VRt66cN6PLw&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=6)
+       * [#6 FutureBuilder](https://www.youtube.com/watch?v=VRt66cN6PLw&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=6)
 
        * [StreamBuilder](https://www.youtube.com/watch?v=4boP8MdHpvE)
     
@@ -36,8 +36,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Sqlite3
      
   * ## Apirest 
-     * Creando sincronización API REST con SQLite en Flutter [Juan Diego Castro ](https://j-diego010297.medium.com/)
-        * https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db
+     * [Creando sincronización API REST con SQLite en Flutter](https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db) [Juan Diego Castro ](https://j-diego010297.medium.com/)
      
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
@@ -45,8 +44,8 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [SOLID Rules en Dart Vol.2](https://link.medium.com/eNvVP2cGZcb)
          * [Dominando las Entidades Vol.3]( https://link.medium.com/YYOWDzeGZcb)
          * [Contratando Repositorios Vol.4](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-4-contratando-repositorios-c604d38b102a)
-      * Flutter + Firestore + Clean Architecture + DI [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
-         * https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c
+      * [Flutter + Firestore + Clean Architecture + DI](https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c) [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
+         
       * Arquitecturas en @Flutter {prebeta} Sergio Casero   
          * [Introducción Vol.1](https://www.youtube.com/watch?v=sX5nlKE8u88&t)
          * [Componentes y estructura Vol.2](https://www.youtube.com/watch?v=IVBY3h5btCs&t)
@@ -56,10 +55,10 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
       * [GetX - DeliveryApp | Flutter Learning   ](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
      
   * ## Mutiplataforma 
-       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción [Liber Da Silva](https://medium.com/@ldasilva-net)
-          * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1
-       * Incorporando tecnología multiplataforma en el desarrollo de RappiPay —Integración   
-          * https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-integraci%C3%B3n-dd38fbe18389
+       * [Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1) [Liber Da Silva](https://medium.com/@ldasilva-net)
+          
+       * [Incorporando tecnología multiplataforma en el desarrollo de RappiPay —Integración](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-integraci%C3%B3n-dd38fbe18389)
+          
        * Web
           * [Flutter para la Web](https://medium.com/comunidad-flutter/flutter-para-la-web-91d8b217ad35)
        
@@ -82,6 +81,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        
      * Plataformas de Pagos
        * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
+       * [Flutter Intermedio: Diseños profesionales y animaciones](https://www.udemy.com/course/flutter-disenos-y-animaciones) Fernando Herrera.
 
 # DART
   * ## Introducción
