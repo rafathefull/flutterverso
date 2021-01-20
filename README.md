@@ -17,8 +17,23 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#4 Animated Container](https://www.youtube.com/watch?v=tF36qXam8Ok&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=4)
        * [#5 Opacity y AnimatedOpacity](https://www.youtube.com/watch?v=GDEM0Wys3lk&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=5)
        * [#6 FutureBuilder](https://www.youtube.com/watch?v=VRt66cN6PLw&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=6)
+       * [#7 FadeTransition](https://www.youtube.com/watch?v=WRPuuM5aSdA&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=7)
+       * [#8 Floating Action Button](https://www.youtube.com/watch?v=F2SZj0euOSM&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=8)
+       * [#9 PageView](https://www.youtube.com/watch?v=PrHBhyAf3lo&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=9)
+       * [#10 Table](https://www.youtube.com/watch?v=l7u_wjkSn84&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=10)
+       * [#11 SliverAppBar](https://www.youtube.com/watch?v=NDTI0o_bZ_A&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=11)
+       * [#12 SliverList y SliverGrid](https://www.youtube.com/watch?v=KsEwhpU3AKQ&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=12)
+       * [#13 FadeInImage](https://www.youtube.com/watch?v=bHbIFT2aSro&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=13)
+       * [#14 StreamBuilder](https://www.youtube.com/watch?v=4boP8MdHpvE&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=14)
+       * [#15 InheritedWidget](https://www.youtube.com/watch?v=U38d6BOOgoc&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=15)
+       * [#16 ClipRRect, ClipOval y ClipPath](https://www.youtube.com/watch?v=hNnr-wdc6Xk&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=16)
+       * [#17 Hero](https://www.youtube.com/watch?v=8IO6eqcTjNc&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=17)
+       * [#18 CustomPainter](https://www.youtube.com/watch?v=GpxkQegspCk&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=18)
+       * [#19 Tooltip](https://www.youtube.com/watch?v=onDwil6yrAA&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=19)
+       * [#20 FittedBox](https://www.youtube.com/watch?v=BVDiWt1_3aY&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=20)
+       * [#21 LayoutBuilder](https://www.youtube.com/watch?v=BLsVOxTakhg&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=21)
 
-       * [StreamBuilder](https://www.youtube.com/watch?v=4boP8MdHpvE)
+       
     
   * ## Diseños
   
@@ -51,6 +66,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [Componentes y estructura Vol.2](https://www.youtube.com/watch?v=IVBY3h5btCs&t)
          * [Ejemplo práctico con template en github!!. Vol 3](https://www.youtube.com/watch?v=0ixbxFTZLxc)
             * https://github.com/sergiocasero/flutter_architecture_template
+            
       * [Cómo estructuro mis proyectos en Flutter?](https://www.youtube.com/watch?v=iiXAoP9ZRUs) Alfredo Bautista Santos
       * [GetX - DeliveryApp | Flutter Learning   ](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
      
@@ -78,6 +94,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * Gratis
        * [Curso Introducción a Flutter en Español]( https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) Youtube
        * [Curso, creando una app](https://www.youtube.com/watch?v=gBfXjjhsl-o) Youtube
+       * [Flutter: Una introducción al SDK de Google](https://www.udemy.com/course/flutter-primeros-pasos/)
        
      * Plataformas de Pagos
        * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
