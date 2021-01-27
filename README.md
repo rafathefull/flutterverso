@@ -102,7 +102,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
 
 # DART
   * ## Introducción
-     * TODO
+     * [Evolucion del lenguaje](https://medium.com/comunidad-flutter/evoluci%C3%B3n-del-lenguaje-dart-96f1441ac380) [Cesar Vega](https://caveli.medium.com/)
 
   * ## Programación eficaz
     * [Que son los mixins](https://medium.com/comunidad-flutter/dart-qu%C3%A9-son-los-mixins-5f2ab880a4ce) [Eduardo](https://medium.com/@Thebro_11)
@@ -111,6 +111,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   
   * ## Conceptos avanzados
     * [Trabajando con bytes en Dart](https://dev.to/maginkgo/trabajando-con-bytes-en-dart-153m) [Marcos Alejandro](https://dev.to/maginkgo)
+    * [Trabajando con Sockets](https://medium.com/comunidad-flutter/trabajando-con-sockets-en-dart-122ddbb7c609) [Cesar Vega](https://caveli.medium.com/)
     
     
   * ## Curso recomendado
