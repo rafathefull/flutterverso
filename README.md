@@ -55,11 +55,12 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
-         * [Intro a CLEAN Vol.1](https://link.medium.com/ApcCRDCaOcb)
-         * [SOLID Rules en Dart Vol.2](https://link.medium.com/eNvVP2cGZcb)
-         * [Dominando las Entidades Vol.3]( https://link.medium.com/YYOWDzeGZcb)
-         * [Contratando Repositorios Vol.4](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-4-contratando-repositorios-c604d38b102a)
-         * [Estableciendo Casos de Uso Vol.5](https://elian-mortega.medium.com/un-flutter-m%C3%A1s-limpio-vol-5-estableciendo-casos-de-uso-946e11cf2315)
+         * [1. Intro a CLEAN](https://link.medium.com/ApcCRDCaOcb)
+         * [2. SOLID Rules en Dart](https://link.medium.com/eNvVP2cGZcb)
+         * [3. Dominando las Entidades]( https://link.medium.com/YYOWDzeGZcb)
+         * [4. Contratando Repositorios](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-4-contratando-repositorios-c604d38b102a)
+         * [5. Estableciendo Casos de Uso](https://elian-mortega.medium.com/un-flutter-m%C3%A1s-limpio-vol-5-estableciendo-casos-de-uso-946e11cf2315)
+         * [6. Modelando datos](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-6-modelando-datos-97dfd1b68bc2)
       * [Flutter + Firestore + Clean Architecture + DI](https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c) [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          
       * Arquitecturas en @Flutter {prebeta} Sergio Casero   
