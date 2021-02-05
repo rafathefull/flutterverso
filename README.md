@@ -73,6 +73,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
       * [GetX - DeliveryApp](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
       * [Clean Architecture + Provider](https://www.youtube.com/watch?v=hP06fknbo0M) diegoveloper
       * [Basicos de Riverpod. Librería de state-management](https://www.youtube.com/watch?v=mojxd_SnhuM&feature=youtu.be)  Argel Bejarano
+      * [Anunciando — Dash. Bloc provider hecho fácil](https://medium.com/comunidad-flutter/anunciando-dash-3c8b68bc5b03) Cesar Vega
      
   * ## Mutiplataforma 
        * [Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1) [Liber Da Silva](https://medium.com/@ldasilva-net)
