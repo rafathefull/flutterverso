@@ -117,7 +117,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Conceptos avanzados
     * [Trabajando con bytes en Dart](https://dev.to/maginkgo/trabajando-con-bytes-en-dart-153m) [Marcos Alejandro](https://dev.to/maginkgo)
     * [Trabajando con Sockets](https://medium.com/comunidad-flutter/trabajando-con-sockets-en-dart-122ddbb7c609) [Cesar Vega](https://caveli.medium.com/)
-    
+    * [Programación Funcional en Dart](https://medium.com/comunidad-flutter/programaci%C3%B3n-funcional-en-dart-7c098f4d66eb)  Marcos Sevilla
     
   * ## Curso recomendado
      * Gratis
