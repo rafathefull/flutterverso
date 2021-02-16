@@ -33,7 +33,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#20 FittedBox](https://www.youtube.com/watch?v=BVDiWt1_3aY&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=20)
        * [#21 LayoutBuilder](https://www.youtube.com/watch?v=BLsVOxTakhg&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=21)
 
-       
+
+  * ## Paquetes
+       [Path provider](https://www.youtube.com/watch?v=NwFUISjK-x8&feature=youtu.be)
     
   * ## Diseños
   
