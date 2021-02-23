@@ -55,6 +55,13 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Apirest 
      * [Creando sincronización API REST con SQLite en Flutter](https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db) [Juan Diego Castro ](https://j-diego010297.medium.com/)
      
+  * ##  Gestores de Estado ( State Management )
+      * [GetX - Cómo iniciarse](https://www.youtube.com/watch?v=eu6AGZayvC0&feature=youtu.be) Oscar Martin
+      * [GetX - DeliveryApp](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
+      * [Clean Architecture + Provider](https://www.youtube.com/watch?v=hP06fknbo0M) diegoveloper
+      * [Basicos de Riverpod. Librería de state-management](https://www.youtube.com/watch?v=mojxd_SnhuM&feature=youtu.be)  Argel Bejarano
+      * [Anunciando — Dash. Bloc provider hecho fácil](https://medium.com/comunidad-flutter/anunciando-dash-3c8b68bc5b03) Cesar Vega
+    
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
          * [1. Intro a CLEAN](https://link.medium.com/ApcCRDCaOcb)
@@ -70,12 +77,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [Componentes y estructura Vol.2](https://www.youtube.com/watch?v=IVBY3h5btCs&t)
          * [Ejemplo práctico con template en github!!. Vol 3](https://www.youtube.com/watch?v=0ixbxFTZLxc)
             * https://github.com/sergiocasero/flutter_architecture_template
-            
+          
       * [Cómo estructuro mis proyectos en Flutter?](https://www.youtube.com/watch?v=iiXAoP9ZRUs) Alfredo Bautista Santos
-      * [GetX - DeliveryApp](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
       * [Clean Architecture + Provider](https://www.youtube.com/watch?v=hP06fknbo0M) diegoveloper
-      * [Basicos de Riverpod. Librería de state-management](https://www.youtube.com/watch?v=mojxd_SnhuM&feature=youtu.be)  Argel Bejarano
-      * [Anunciando — Dash. Bloc provider hecho fácil](https://medium.com/comunidad-flutter/anunciando-dash-3c8b68bc5b03) Cesar Vega
      
   * ## Mutiplataforma 
        * [Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1) [Liber Da Silva](https://medium.com/@ldasilva-net)
