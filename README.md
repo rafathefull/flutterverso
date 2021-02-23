@@ -38,6 +38,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        [Path provider](https://www.youtube.com/watch?v=NwFUISjK-x8&feature=youtu.be)
     
   * ## Diseños
+       * [Disney+ Clone - Diseño Bienvenido](https://www.youtube.com/watch?v=qjdGPxXmJEQ&feature=youtu.be) DeVic
   
   * ## Animaciones
        * [Curvas](https://easings.net/es-mx)
