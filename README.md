@@ -89,6 +89,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
           
        * Web
           * [Flutter para la Web](https://medium.com/comunidad-flutter/flutter-para-la-web-91d8b217ad35)
+
+  * ## Utilidades
+    * [FVM Manejo de versiones de Flutter](https://medium.com/flutter-espa%C3%B1a/instalando-flutter-2-de-manera-segura-con-fvm-36e8ee40c4dd)   [Alberto Chamorro](https://medium.com/@a.chamorro.ruiz)
        
   * ## Canales
      * https://t.me/flutter_dart_spanish
