@@ -37,6 +37,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Paquetes
        * [Path provider](https://www.youtube.com/watch?v=NwFUISjK-x8&feature=youtu.be)
        * [Lista de correo con informacion sobre paquetes](https://codigoflutter.es/newsletters/)  Daniel Montil
+       * [NFC, Ejemplo de implementacion.](https://medium.com/flutter-espa%C3%B1a/flutter-y-nfc-unleashed-98238c85a1e2) Arnaudelub
     
   * ## Diseños
        * [Disney+ Clone - Diseño Bienvenido](https://www.youtube.com/watch?v=qjdGPxXmJEQ&feature=youtu.be) DeVic
