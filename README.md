@@ -67,6 +67,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
       * [Anunciando — Dash. Bloc provider hecho fácil](https://medium.com/comunidad-flutter/anunciando-dash-3c8b68bc5b03) Cesar Vega
       * [Flutter, Bloc y Firestore Stream](https://arnaudelub.medium.com/flutter-bloc-y-firestore-stream-la-combinaci%C3%B3n-perfecta-si-se-usa-de-la-manera-correcta-33fc8a64bcca) Arnaudelub
       * [Qué es BLoC | Provider | State management | Flutter Learning](https://www.youtube.com/watch?v=QJngeHgHA50&t=108s)  diegoveloper
+      * [Como empezar con Riverpod, StateNotifier, Freezed](https://elian-mortega.medium.com/como-empezar-con-riverpod-statenotifier-freezed-a47402c772ea) Elian Ortega
     
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
