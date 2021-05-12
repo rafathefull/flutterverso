@@ -115,6 +115,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * [Alfredo Bautista](https://www.youtube.com/channel/UCoGLWcqby-Scy1oFbxnWFsQ)
      * [Ricardo Markiewicz](https://www.youtube.com/channel/UCqMwm3oGe6BhJUOrBdfnAEA)
      * [NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
+     * [Código Base](https://www.youtube.com/channel/UCUS32RRqVl6gqTXqMFoCrjA)
   
   * ## Curso recomendado
      * Gratis
