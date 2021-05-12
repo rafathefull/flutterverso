@@ -55,6 +55,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
     * [Flutter: Bloc, yield, async* y streams](https://www.youtube.com/watch?v=vIwYSFnT2D0&feature=youtu.be) Youtube
 
   * ## Redes
+    * [Un mejor HTTP con Dio](https://marcossevilla.medium.com/un-mejor-http-con-dio-1f9efc46a853)
   
   * ## Sqlite3
      
