@@ -49,6 +49,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Animaciones
        * [Curvas](https://easings.net/es-mx)
        * [Implicit animations](https://www.youtube.com/watch?v=x_PNf5A2r6A&t=263s) Introducción a las animaciones dónde hablamos sobre las animaciones implícitas y cómo de sencillo es mejorar nuestra UI con estas animaciones tan simples. ¡No te lo pierdas! 
+       * [Rotaciones con Transform de Flutter (Part I)](https://medium.com/flutter-espa%C3%B1a/rotaciones-con-transform-de-flutter-part-i-ejemplos-a8284b759597) [Alfonso Garca](https://alfonso-software.medium.com/)
   
   * ## JSON y serializacion
 
