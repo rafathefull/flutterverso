@@ -42,6 +42,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
     
   * ## Diseños
        * [Disney+ Clone - Diseño Bienvenido](https://www.youtube.com/watch?v=qjdGPxXmJEQ&feature=youtu.be) DeVic
+       * [UX para Forms en Flutter: Capitalización, Tipo de Teclado y Control de Foco](https://www.youtube.com/watch?v=dsl0HkWoSjw)
   
   * ## Animaciones
        * [Curvas](https://easings.net/es-mx)
