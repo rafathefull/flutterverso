@@ -7,6 +7,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ##
     * Sitio web oficial de Flutter - Documentación
     * [Documentacion español](https://esflutter.dev/docs)
+    * [FLUTTER CORE - INTRO](https://www.youtube.com/watch?v=oFsxQkQmubM) **Subtitulos en Español** [Jaime Blasco](https://twitter.com/JamesBlasco)
     
   * ## Widgets
     * [CustomPainter. Como pintar en Flutter ](https://medium.com/@Thebro_11/como-pintar-en-flutter-48e4b6e4cfc0)  [Eduardo](https://medium.com/@Thebro_11)
