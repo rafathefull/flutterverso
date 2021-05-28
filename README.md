@@ -74,6 +74,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
       * [Qué es BLoC | Provider | State management | Flutter Learning](https://www.youtube.com/watch?v=QJngeHgHA50&t=108s)  diegoveloper
       * [Como empezar con Riverpod, StateNotifier, Freezed](https://elian-mortega.medium.com/como-empezar-con-riverpod-statenotifier-freezed-a47402c772ea) Elian Ortega
       * [Riverpod, StateNotifier, Freezed. ¿Como iniciar?](https://www.youtube.com/watch?v=5w08voj0D0w) 
+      * [Riverpod: Reescribiendo Provider](https://medium.com/comunidad-flutter/riverpod-reescribiendo-provider-deed3375414c)
     
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
