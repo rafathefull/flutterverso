@@ -75,6 +75,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
       * [Como empezar con Riverpod, StateNotifier, Freezed](https://elian-mortega.medium.com/como-empezar-con-riverpod-statenotifier-freezed-a47402c772ea) Elian Ortega
       * [Riverpod, StateNotifier, Freezed. ¿Como iniciar?](https://www.youtube.com/watch?v=5w08voj0D0w) 
       * [Riverpod: Reescribiendo Provider](https://medium.com/comunidad-flutter/riverpod-reescribiendo-provider-deed3375414c)
+      * [StateNotifier, una mejora a ChangeNotifier](https://medium.com/comunidad-flutter/statenotifier-una-mejora-a-changenotifier-ebe8ddacf9c2)
     
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
@@ -123,6 +124,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * [Ricardo Markiewicz](https://www.youtube.com/channel/UCqMwm3oGe6BhJUOrBdfnAEA)
      * [NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
      * [Código Base](https://www.youtube.com/channel/UCUS32RRqVl6gqTXqMFoCrjA)
+     * [Comunidad Flutter. Artículos e Historias de la Comunidad de Flutter](https://medium.com/comunidad-flutter)
   
   * ## Curso recomendado
      * Gratis
