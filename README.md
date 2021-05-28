@@ -83,6 +83,8 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
          * [4. Contratando Repositorios](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-4-contratando-repositorios-c604d38b102a)
          * [5. Estableciendo Casos de Uso](https://elian-mortega.medium.com/un-flutter-m%C3%A1s-limpio-vol-5-estableciendo-casos-de-uso-946e11cf2315)
          * [6. Modelando datos](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-6-modelando-datos-97dfd1b68bc2)
+         * [7. De dónde vienen los datos](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-7-de-d%C3%B3nde-vienen-los-datos-bde536262db4)
+         * [8. Implementando contratos](https://medium.com/comunidad-flutter/un-flutter-m%C3%A1s-limpio-vol-8-implementando-contratos-8efd8a828cb9)
       * [Flutter + Firestore + Clean Architecture + DI](https://medium.com/flutter-espa%C3%B1a/flutter-firestore-clean-architecture-di-9b417ce94f1c) [Ana Polo](https://medium.com/@ana.polo.sanchez1991)
          
       * Arquitecturas en @Flutter {prebeta} Sergio Casero   
