@@ -35,6 +35,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#21 LayoutBuilder](https://www.youtube.com/watch?v=BLsVOxTakhg&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=21)
        * [#22 AbsorbPointer](https://www.youtube.com/watch?v=3JCOMJ23C-0&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=22)
        * [#23 Transform](https://www.youtube.com/watch?v=LRBNnOglNpI&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=23)
+       * [#24 ImageFilter](https://www.youtube.com/watch?v=Vehsj7Bkbtg)
 
 
   * ## Paquetes
@@ -135,6 +136,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * Plataformas de Pagos
        * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
        * [Flutter Intermedio: Diseños profesionales y animaciones](https://www.udemy.com/course/flutter-disenos-y-animaciones) Fernando Herrera.
+       * [Flutter Web: Aplicaciones y páginas web profesionales](https://www.udemy.com/course/flutter-web-fh) Fernando Herrera.
 
 # DART
   * ## Introducción
