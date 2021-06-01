@@ -64,7 +64,8 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      
   * ## Apirest 
      * [Creando sincronización API REST con SQLite en Flutter](https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db) [Juan Diego Castro ](https://j-diego010297.medium.com/)
-     
+     * [Rest API y manejo de errores con Flutter](https://www.youtube.com/watch?v=fAbySSpkuvA) Youtube Flutter Guatemala
+          
   * ##  Gestores de Estado ( State Management )
       * [GetX - Cómo iniciarse](https://www.youtube.com/watch?v=eu6AGZayvC0&feature=youtu.be) Oscar Martin
       * [GetX - DeliveryApp](https://www.youtube.com/watch?v=Qffojk-vjKY) diegoveloper
