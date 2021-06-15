@@ -127,6 +127,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * [NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
      * [Código Base](https://www.youtube.com/channel/UCUS32RRqVl6gqTXqMFoCrjA)
      * [Comunidad Flutter. Artículos e Historias de la Comunidad de Flutter](https://medium.com/comunidad-flutter)
+     * [Jose Escribano](https://www.youtube.com/channel/UCeHLsHSWh93r19UuwPLFNMw)
   
   * ## Curso recomendado
      * Gratis
