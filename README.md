@@ -52,6 +52,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [Implicit animations](https://www.youtube.com/watch?v=x_PNf5A2r6A&t=263s) Introducción a las animaciones dónde hablamos sobre las animaciones implícitas y cómo de sencillo es mejorar nuestra UI con estas animaciones tan simples. ¡No te lo pierdas! 
        * [Rotaciones con Transform de Flutter (Part I)](https://medium.com/flutter-espa%C3%B1a/rotaciones-con-transform-de-flutter-part-i-ejemplos-a8284b759597) [Alfonso García](https://alfonso-software.medium.com/)
        * [Rotaciones con Transform de Flutter (Part II)](https://medium.com/flutter-espa%C3%B1a/rotaciones-con-transform-de-flutter-part-ii-desaf%C3%ADos-286a7d358090) [Alfonso García](https://alfonso-software.medium.com/)
+       * [Desafíos con Container de Flutter](https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7) [Alfonso García](https://alfonso-software.medium.com/)
   
   * ## JSON y serializacion
 
