@@ -63,6 +63,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
     * [Un mejor HTTP con Dio](https://marcossevilla.medium.com/un-mejor-http-con-dio-1f9efc46a853)
   
   * ## Sqlite3
+    * [Curso de FLUTTER: Base de datos SQLite](https://www.youtube.com/watch?v=LLYoryuCOlM)  Youtube.Luis Serrano Donaire
      
   * ## Apirest 
      * [Creando sincronización API REST con SQLite en Flutter](https://j-diego010297.medium.com/creando-sincronizaci%C3%B3n-api-rest-con-sqlite-en-flutter-6c13c44049db) [Juan Diego Castro ](https://j-diego010297.medium.com/)
