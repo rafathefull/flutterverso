@@ -179,3 +179,10 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
           scrollbarTheme: ScrollbarThemeData()
               .copyWith(thumbColor: MaterialStateProperty.all(Colors.white))), 
 ```
+ *  **Como evitar ListView haga el efecto elástico** Se hace a traves de la propiedad physics; <br>
+```
+  child: ListView(
+        physics:
+            ClampingScrollPhysics(),
+        children: [ ... ]
+```
