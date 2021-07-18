@@ -168,3 +168,14 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [Introduccion a Dart](https://g-coding-academy.thinkific.com/courses/introduccion-dart)  G Coding Academy
 
      * Plataformas de Pagos
+
+
+# TIPS FLUTTER
+ 
+  
+ *  **Como cambiar el color a una ScrollBar.**  A través del MaterialApp, por ejemplo, color blanco ;<br>
+```
+        theme: ThemeData.light().copyWith(
+          scrollbarTheme: ScrollbarThemeData()
+              .copyWith(thumbColor: MaterialStateProperty.all(Colors.white))), 
+```
