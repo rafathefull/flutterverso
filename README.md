@@ -187,3 +187,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
             ClampingScrollPhysics(),
         children: [ ... ]
 ```
+* **Como ocultar una scrollbar** A través del widget ScrollConfiguration. Por ejemplo, no quiero que salga la barra en SingleChildScrollView
+ ```
+child: ScrollConfiguration(
+       behavior: ScrollConfiguration.of(context).copyWith(scrollbars: false),
+       child: SingleChildScrollView(....)
+```
