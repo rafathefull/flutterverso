@@ -133,6 +133,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
      * [Código Base](https://www.youtube.com/channel/UCUS32RRqVl6gqTXqMFoCrjA)
      * [Comunidad Flutter. Artículos e Historias de la Comunidad de Flutter](https://medium.com/comunidad-flutter)
      * [Jose Escribano](https://www.youtube.com/channel/UCeHLsHSWh93r19UuwPLFNMw)
+     * [La flutterlista](https://laflutterlista.com)  
   
   * ## Curso recomendado
      * Gratis
