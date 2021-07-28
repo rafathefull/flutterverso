@@ -155,6 +155,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
 
   * ## Programación eficaz
     * [Que son los mixins](https://medium.com/comunidad-flutter/dart-qu%C3%A9-son-los-mixins-5f2ab880a4ce) [Eduardo](https://medium.com/@Thebro_11)
+    * [Mixins](https://www.youtube.com/watch?v=H5YXX7DTsl0) Fernado Herrera
     
   * ## Programación asincrónica
   
