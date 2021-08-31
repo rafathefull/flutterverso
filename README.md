@@ -64,6 +64,9 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
   * ## Redes
     * [Un mejor HTTP con Dio](https://marcossevilla.medium.com/un-mejor-http-con-dio-1f9efc46a853)
   
+  * ## Firebase
+    * [Flutter - Firebase Authentication en español](https://vircourses.com/flutter-firebase-authentication-en-espanol?fbclid=IwAR2Ah83OrcJkd3BBPI0qMIsk0aVNJbWlw85YxKC69Qmcbylrpc5uvKbvFSM) Curso Gratuito
+  
   * ## Sqlite3
     * [Curso de FLUTTER: Base de datos SQLite](https://www.youtube.com/watch?v=LLYoryuCOlM)  Youtube.Luis Serrano Donaire
      
