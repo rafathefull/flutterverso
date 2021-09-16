@@ -125,6 +125,10 @@ Luis Serrano Donaire
   * ## Utilidades
     * [FVM Manejo de versiones de Flutter](https://medium.com/flutter-espa%C3%B1a/instalando-flutter-2-de-manera-segura-con-fvm-36e8ee40c4dd)   [Alberto Chamorro](https://medium.com/@a.chamorro.ruiz)
        
+  * ## Conceptos avanzados
+     * [Modos de ejecución de código en Flutter](https://medium.com/comunidad-flutter/modos-de-ejecuci%C3%B3n-de-c%C3%B3digo-en-flutter-f7941030e3a1) [Cesar Vega](https://caveli.medium.com/)
+
+  
   * ## Canales
      * https://t.me/flutter_dart_spanish
      * https://www.twitch.tv/flutter_es
