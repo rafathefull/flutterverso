@@ -112,7 +112,8 @@ Luis Serrano Donaire
           
       * [Cómo estructuro mis proyectos en Flutter?](https://www.youtube.com/watch?v=iiXAoP9ZRUs) Alfredo Bautista Santos
       * [Clean Architecture + Provider](https://www.youtube.com/watch?v=hP06fknbo0M) diegoveloper
-     
+      * [¿Cómo empezar con Flutter Testing? — Parte uno](https://medium.com/flutter-espa%C3%B1a/c%C3%B3mo-empezar-con-flutter-testing-parte-uno-8a5b93d40469)
+
   * ## Mutiplataforma 
        * [Incorporando tecnología multiplataforma en el desarrollo de RappiPay Introducción](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-introducci%C3%B3n-da77169a0c1) [Liber Da Silva](https://medium.com/@ldasilva-net)
           
