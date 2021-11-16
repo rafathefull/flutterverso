@@ -39,6 +39,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#25 Align](https://www.youtube.com/watch?v=mPckOLz8wNo&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=26)
        * [#26 Positioned](https://www.youtube.com/watch?v=2U5ulAsNFR0&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=27)
        * [#27 AnimatedBuilder](https://www.youtube.com/watch?v=RQtcUCB3Iqs&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=27)
+       * [#28 Dismissible](https://www.youtube.com/watch?v=ZuEm-omgDjA&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=28)
 
 
   * ## Paquetes
