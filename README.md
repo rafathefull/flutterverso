@@ -92,6 +92,7 @@ Luis Serrano Donaire
       * [Riverpod: Reescribiendo Provider](https://medium.com/comunidad-flutter/riverpod-reescribiendo-provider-deed3375414c)
       * [StateNotifier, una mejora a ChangeNotifier](https://medium.com/comunidad-flutter/statenotifier-una-mejora-a-changenotifier-ebe8ddacf9c2)
       * [Curso de GetX] (https://www.youtube.com/playlist?list=PLV0nOzdUS5XtParoZLgKoVwNSK9zROwuO)
+      * [Implementa Arquitectura a tu proyecto Flutter usando el patrón BLOC](https://medium.com/comunidad-flutter/implementa-arquitectura-a-tu-proyecto-flutter-usando-el-patr%C3%B3n-bloc-2cb031722166) Cesar Vega
     
   * ## Clean code & Clean Architecture
       * Un Flutter Más Limpio  [Marcos Sevilla](https://marcossevilla.medium.com/)    
