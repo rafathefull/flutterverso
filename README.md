@@ -159,6 +159,7 @@ Luis Serrano Donaire
        * [CURSO COMPLETO: Crea una página web desde cero con Flutter](https://www.youtube.com/watch?v=jD7QThC7hQk) Youtube ( codigofacilito )
        * [Flutter](https://g-coding-academy.thinkific.com/collections?category=flutter)  G Coding Academy
        * [Isolates. Aprende a utilizar los isolates en tus aplicaciones flutter para procesar tareas pesadas mediante multithreading](https://www.udemy.com/course/flutter-isolates/)  UDEMY
+       * [Flutter, tutoriales en Español para principiantes⚡ Creando un CRUD de Notas o Tareas](https://www.youtube.com/playlist?list=PLB5SYDBi8M3Hcx1jHTqsiOx_t7ujwSXIG) Youtube
        
      * Plataformas de Pagos
        * [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) Fernando Herrera.
