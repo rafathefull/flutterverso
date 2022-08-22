@@ -40,7 +40,8 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#26 Positioned](https://www.youtube.com/watch?v=2U5ulAsNFR0&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=27)
        * [#27 AnimatedBuilder](https://www.youtube.com/watch?v=RQtcUCB3Iqs&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=27)
        * [#28 Dismissible](https://www.youtube.com/watch?v=ZuEm-omgDjA&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=28)
-    * [Formularios en Flutter de manera fácil](https://medium.com/@erns70b/formularios-reactivos-en-flutter-de-manera-f%C3%A1cil-7b73b3fc6b25) by Ernesto Alfonso
+    * [Formularios en Flutter de manera fácil](https://medium.com/@erns70b/formularios-reactivos-en-flutter-de-manera-f%C3%A1cil-7b73b3fc6b25) Ernesto Alfonso
+    * [Widget de la semana: CheckboxListTile](https://medium.com/flutterhispano/widget-de-la-semana-checkboxlisttile-4f1c155dd474) Farid Murzone
 
 
   * ## Paquetes
