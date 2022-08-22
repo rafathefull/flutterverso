@@ -35,6 +35,7 @@ Este espacio es un sitio donde poder encontrar recursos de Fluter en español, q
        * [#21 LayoutBuilder](https://www.youtube.com/watch?v=BLsVOxTakhg&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=21)
        * [#22 AbsorbPointer](https://www.youtube.com/watch?v=3JCOMJ23C-0&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=22)
        * [#23 Transform](https://www.youtube.com/watch?v=LRBNnOglNpI&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=23)
+       * [#24 BackdropFilter](https://www.youtube.com/watch?v=dYRs7Q1vfYI&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE&index=24)
        * [#24 ImageFilter](https://www.youtube.com/watch?v=Vehsj7Bkbtg)
        * [#25 Align](https://www.youtube.com/watch?v=mPckOLz8wNo&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=26)
        * [#26 Positioned](https://www.youtube.com/watch?v=2U5ulAsNFR0&list=PLCKuOXG0bPi2GD3Bq55ysZfQJz2k-LiEz&index=27)
