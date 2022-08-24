@@ -177,6 +177,7 @@ Luis Serrano Donaire
   * ## Programación eficaz
     * [Que son los mixins](https://medium.com/comunidad-flutter/dart-qu%C3%A9-son-los-mixins-5f2ab880a4ce) [Eduardo](https://medium.com/@Thebro_11)
     * [Mixins](https://www.youtube.com/watch?v=H5YXX7DTsl0) Fernado Herrera
+    * [Guías para una mejor escritura de código Dart](https://dev.to/marcelo/guias-para-una-mejor-escritura-de-codigo-dart-5hgo) Marcelo Sebastián
     
   * ## Programación asincrónica
   
