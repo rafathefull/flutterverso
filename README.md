@@ -215,4 +215,10 @@ Luis Serrano Donaire
 child: ScrollConfiguration(
        behavior: ScrollConfiguration.of(context).copyWith(scrollbars: false),
        child: SingleChildScrollView(....)
+
+```
+* **Como quitar comportamiento splash del boton** No quiero que cuando pulse el botón se me muestre la animacion, se realiza a traves del style
+ ```
+child: TextButton.icon(
+                     style: ButtonStyle( overlayColor: MaterialStateProperty.all(Colors.transparent))
 ```
